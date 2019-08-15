@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Cassandra Coyle/CLionProjects/dynamicfibonacci/main.cpp
+iostream
+-
+vector
+-
+utility
+-
+tuple
+-
+chrono
+-
+stdlib.h
+-
+
