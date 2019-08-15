@@ -1,0 +1,48 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Cassandra Coyle/CLionProjects/homework4_1/ClassA.h
+iostream
+-
+
+C:/Users/Cassandra Coyle/CLionProjects/homework4_1/ClassB.h
+iostream
+-
+ClassA.h
+C:/Users/Cassandra Coyle/CLionProjects/homework4_1/ClassA.h
+
+C:/Users/Cassandra Coyle/CLionProjects/homework4_1/ClassC.h
+iostream
+-
+ClassB.h
+C:/Users/Cassandra Coyle/CLionProjects/homework4_1/ClassB.h
+ClassA.h
+C:/Users/Cassandra Coyle/CLionProjects/homework4_1/ClassA.h
+
+C:/Users/Cassandra Coyle/CLionProjects/homework4_1/ClassD.h
+iostream
+-
+ClassC.h
+C:/Users/Cassandra Coyle/CLionProjects/homework4_1/ClassC.h
+ClassB.h
+C:/Users/Cassandra Coyle/CLionProjects/homework4_1/ClassB.h
+ClassA.h
+C:/Users/Cassandra Coyle/CLionProjects/homework4_1/ClassA.h
+
+C:/Users/Cassandra Coyle/CLionProjects/homework4_1/main.cpp
+iostream
+-
+ClassA.h
+C:/Users/Cassandra Coyle/CLionProjects/homework4_1/ClassA.h
+ClassB.h
+C:/Users/Cassandra Coyle/CLionProjects/homework4_1/ClassB.h
+ClassC.h
+C:/Users/Cassandra Coyle/CLionProjects/homework4_1/ClassC.h
+ClassD.h
+C:/Users/Cassandra Coyle/CLionProjects/homework4_1/ClassD.h
+
