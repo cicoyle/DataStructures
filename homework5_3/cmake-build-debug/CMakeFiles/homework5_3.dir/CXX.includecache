@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Cassandra Coyle/CLionProjects/homework5_3/main.cpp
+iostream
+-
+palindrome.h
+C:/Users/Cassandra Coyle/CLionProjects/homework5_3/palindrome.h
+
+C:/Users/Cassandra Coyle/CLionProjects/homework5_3/palindrome.h
+iostream
+-
+queue
+-
+stack
+-
+algorithm
+-
+
