@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Cassandra Coyle/CLionProjects/homework5_1/combinations.h
+iostream
+-
+algorithm
+-
+vector
+-
+
+C:/Users/Cassandra Coyle/CLionProjects/homework5_1/main.cpp
+iostream
+-
+combinations.h
+C:/Users/Cassandra Coyle/CLionProjects/homework5_1/combinations.h
+
