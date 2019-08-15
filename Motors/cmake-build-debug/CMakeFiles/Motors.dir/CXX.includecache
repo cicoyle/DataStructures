@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Cassandra Coyle/CLionProjects/Motors/main.cpp
+iostream
+-
+motors.h
+C:/Users/Cassandra Coyle/CLionProjects/Motors/motors.h
+turbo.h
+C:/Users/Cassandra Coyle/CLionProjects/Motors/turbo.h
+
+C:/Users/Cassandra Coyle/CLionProjects/Motors/motors.cpp
+motors.h
+C:/Users/Cassandra Coyle/CLionProjects/Motors/motors.h
+
+C:/Users/Cassandra Coyle/CLionProjects/Motors/motors.h
+
+C:/Users/Cassandra Coyle/CLionProjects/Motors/turbo.cpp
+turbo.h
+C:/Users/Cassandra Coyle/CLionProjects/Motors/turbo.h
+
+C:/Users/Cassandra Coyle/CLionProjects/Motors/turbo.h
+motors.h
+C:/Users/Cassandra Coyle/CLionProjects/Motors/motors.h
+

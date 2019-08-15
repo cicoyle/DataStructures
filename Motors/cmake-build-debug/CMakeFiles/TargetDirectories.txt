@@ -1,0 +1,3 @@
+C:/Users/Cassandra Coyle/CLionProjects/Motors/cmake-build-debug/CMakeFiles/Motors.dir
+C:/Users/Cassandra Coyle/CLionProjects/Motors/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Cassandra Coyle/CLionProjects/Motors/cmake-build-debug/CMakeFiles/rebuild_cache.dir
