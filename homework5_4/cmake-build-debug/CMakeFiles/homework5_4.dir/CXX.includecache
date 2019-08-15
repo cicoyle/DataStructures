@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Cassandra Coyle/CLionProjects/homework5_4/CircQueue.h
+iostream
+-
+linked_list.h
+C:/Users/Cassandra Coyle/CLionProjects/homework5_4/linked_list.h
+
+C:/Users/Cassandra Coyle/CLionProjects/homework5_4/MinQueue.h
+queue
+-
+stack
+-
+CircQueue.h
+C:/Users/Cassandra Coyle/CLionProjects/homework5_4/CircQueue.h
+Stack.h
+C:/Users/Cassandra Coyle/CLionProjects/homework5_4/Stack.h
+
+C:/Users/Cassandra Coyle/CLionProjects/homework5_4/Stack.h
+iostream
+-
+linked_list.h
+C:/Users/Cassandra Coyle/CLionProjects/homework5_4/linked_list.h
+
+C:/Users/Cassandra Coyle/CLionProjects/homework5_4/linked_list.h
+iostream
+-
+
+C:/Users/Cassandra Coyle/CLionProjects/homework5_4/main.cpp
+vector
+-
+iostream
+-
+MinQueue.h
+C:/Users/Cassandra Coyle/CLionProjects/homework5_4/MinQueue.h
+
