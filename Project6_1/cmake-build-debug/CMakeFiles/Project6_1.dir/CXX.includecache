@@ -1,0 +1,56 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Cassandra Coyle/CLionProjects/Project6_1/PostFixTreeBuilder.cpp
+cstdlib
+-
+iostream
+-
+sstream
+-
+string
+-
+stack
+-
+exception
+-
+PostFixTreeBuilder.h
+C:/Users/Cassandra Coyle/CLionProjects/Project6_1/PostFixTreeBuilder.h
+
+C:/Users/Cassandra Coyle/CLionProjects/Project6_1/PostFixTreeBuilder.h
+cstdlib
+-
+iostream
+-
+sstream
+-
+string
+-
+stack
+-
+exception
+-
+
+C:/Users/Cassandra Coyle/CLionProjects/Project6_1/main.cpp
+cstdlib
+-
+iostream
+-
+sstream
+-
+string
+-
+stack
+-
+exception
+-
+string
+-
+PostFixTreeBuilder.h
+C:/Users/Cassandra Coyle/CLionProjects/Project6_1/PostFixTreeBuilder.h
+
